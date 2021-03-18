@@ -1,0 +1,4 @@
+#Thu Mar 18 09:44:07 NPT 2021
+base.0=/Users/sarassthapitshrestha/Desktop/al-a/Android-Developer-Fundamentals-Version-2-master/4.5_RecyclerView/fragment2/Fragments-Fragment2/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
